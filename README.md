@@ -34,8 +34,8 @@ Once you have the necessary setup, you can clone this repository and explore the
 
 If you have any questions or need further assistance, please feel free to reach out to me:
 
-- Email: ombade364@gmail.com
-- LinkedIn: [Om Bade](https://www.linkedin.com/in/om-bade-1633081a5/)
+- Email: sureshcitabu@gmail.com
+- LinkedIn: [Suresh kumar]
 
 ## Contributions
 
