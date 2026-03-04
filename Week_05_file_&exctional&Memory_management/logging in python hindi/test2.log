@@ -1,0 +1,174 @@
+2026-02-20 16:58:20,444 root INFO This is info logging
+2026-02-20 16:58:20,444 root ERROR This is my error
+2026-02-20 16:58:20,444 root CRITICAL This is critical
+2026-02-20 17:07:32,024 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:07:32,024 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:07:32,024 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:07:32,024 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:07:32,024 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:07:32,024 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:07:32,024 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:07:32,028 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:07:32,028 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:07:32,028 root INFO i am inside if statement and i am trying to check list type
+2026-02-20 17:07:32,028 root INFO i am in another for loop for list inside list element
+2026-02-20 17:07:32,028 root INFO i am in another for loop for list inside list element
+2026-02-20 17:07:32,028 root INFO i am in another for loop for list inside list element
+2026-02-20 17:07:32,028 root INFO i am in another for loop for list inside list element
+2026-02-20 17:07:32,028 root INFO i am in another for loop for list inside list element
+2026-02-20 17:07:32,028 root INFO i am in another for loop for list inside list element
+2026-02-20 17:07:32,028 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:07:32,028 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:09:55,381 root INFO This is info logging
+2026-02-20 17:09:55,382 root ERROR This is my error
+2026-02-20 17:09:55,382 root CRITICAL This is critical
+2026-02-20 17:09:56,509 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:09:56,509 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:09:56,509 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:09:56,509 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:09:56,509 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:09:56,509 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:09:56,509 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:09:56,509 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:09:56,509 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:09:56,509 root INFO i am inside if statement and i am trying to check list type
+2026-02-20 17:09:56,509 root INFO i am in another for loop for list inside list element
+2026-02-20 17:09:56,509 root INFO i am in another for loop for list inside list element
+2026-02-20 17:09:56,509 root INFO i am in another for loop for list inside list element
+2026-02-20 17:09:56,509 root INFO i am in another for loop for list inside list element
+2026-02-20 17:09:56,509 root INFO i am in another for loop for list inside list element
+2026-02-20 17:09:56,509 root INFO i am in another for loop for list inside list element
+2026-02-20 17:09:56,509 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:09:56,509 root INFO we are iterating through our list and our local var is i
+2026-02-20 17:10:43,544 root INFO we are iterating through our list and our local var is i[1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:10:43,544 root INFO we are iterating through our list and our local var is i[1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:10:43,544 root INFO we are iterating through our list and our local var is i[1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:10:43,544 root INFO we are iterating through our list and our local var is i[1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:10:43,544 root INFO we are iterating through our list and our local var is i[1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:10:43,544 root INFO we are iterating through our list and our local var is i[1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:10:43,544 root INFO we are iterating through our list and our local var is i[1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:10:43,544 root INFO we are iterating through our list and our local var is i[1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:10:43,544 root INFO we are iterating through our list and our local var is i[1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:10:43,544 root INFO i am inside if statement and i am trying to check list type[3, 4, 3, 5, 3, 4]
+2026-02-20 17:10:43,544 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:10:43,544 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:10:43,544 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:10:43,544 root INFO i am in another for loop for list inside list element5
+2026-02-20 17:10:43,544 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:10:43,545 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:10:43,545 root INFO we are iterating through our list and our local var is i[1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:10:43,545 root INFO we are iterating through our list and our local var is i[1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:11:58,871 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:11:58,871 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:11:58,871 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:11:58,871 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:11:58,871 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:11:58,871 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:11:58,871 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:11:58,871 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:11:58,872 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:11:58,872 root INFO i am inside if statement and i am trying to check list type[3, 4, 3, 5, 3, 4]
+2026-02-20 17:11:58,872 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:11:58,872 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:11:58,872 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:11:58,872 root INFO i am in another for loop for list inside list element5
+2026-02-20 17:11:58,872 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:11:58,872 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:11:58,872 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:11:58,872 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:37,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:37,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:37,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:37,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:37,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:37,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:37,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:37,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:37,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:37,567 root INFO i am inside if statement and i am trying to check list type[3, 4, 3, 5, 3, 4]
+2026-02-20 17:12:37,567 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:12:37,567 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:12:37,567 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:12:37,567 root INFO i am in another for loop for list inside list element5
+2026-02-20 17:12:37,567 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:12:37,567 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:12:37,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:37,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:43,227 root INFO This is info logging
+2026-02-20 17:12:43,228 root ERROR This is my error
+2026-02-20 17:12:43,228 root CRITICAL This is critical
+2026-02-20 17:12:44,262 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:44,262 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:44,262 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:44,263 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:44,263 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:44,263 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:44,263 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:44,263 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:44,263 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:44,263 root INFO i am inside if statement and i am trying to check list type[3, 4, 3, 5, 3, 4]
+2026-02-20 17:12:44,263 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:12:44,263 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:12:44,263 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:12:44,263 root INFO i am in another for loop for list inside list element5
+2026-02-20 17:12:44,263 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:12:44,263 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:12:44,263 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:12:44,263 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:14:26,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:14:26,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:14:26,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:14:26,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:14:26,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:14:26,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:14:26,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:14:26,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:14:26,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:14:26,567 root INFO i am inside if statement and i am trying to check list type[3, 4, 3, 5, 3, 4]
+2026-02-20 17:14:26,567 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:14:26,567 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:14:26,567 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:14:26,567 root INFO i am in another for loop for list inside list element5
+2026-02-20 17:14:26,567 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:14:26,567 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:14:26,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:14:26,567 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:14:26,568 root INFO my final result for int is [1, 2, 3, 4, 545, 654, 5, 67] and str is ['suresh', 'kumar']
+2026-02-20 17:16:28,190 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:28,190 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:28,190 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:28,191 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:28,191 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:28,191 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:28,191 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:28,191 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:28,191 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:28,191 root DEBUG i am inside if statement and i am trying to check list type[3, 4, 3, 5, 3, 4]
+2026-02-20 17:16:28,191 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:16:28,191 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:16:28,191 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:16:28,191 root INFO i am in another for loop for list inside list element5
+2026-02-20 17:16:28,191 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:16:28,191 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:16:28,191 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:28,191 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:28,191 root INFO my final result for int is [1, 2, 3, 4, 545, 654, 5, 67] and str is ['suresh', 'kumar']
+2026-02-20 17:16:50,047 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:50,047 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:50,047 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:50,047 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:50,047 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:50,047 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:50,047 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:50,047 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:50,047 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:50,048 root INFO i am inside if statement and i am trying to check list type[3, 4, 3, 5, 3, 4]
+2026-02-20 17:16:50,048 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:16:50,048 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:16:50,048 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:16:50,048 root INFO i am in another for loop for list inside list element5
+2026-02-20 17:16:50,048 root INFO i am in another for loop for list inside list element3
+2026-02-20 17:16:50,048 root INFO i am in another for loop for list inside list element4
+2026-02-20 17:16:50,048 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:50,048 root INFO we are iterating through our list and our local var is i [1, 2, 3, 4, 545, 654, 5, 67, [3, 4, 3, 5, 3, 4], 'suresh', 'kumar']
+2026-02-20 17:16:50,048 root INFO my final result for int is [1, 2, 3, 4, 545, 654, 5, 67] and str is ['suresh', 'kumar']

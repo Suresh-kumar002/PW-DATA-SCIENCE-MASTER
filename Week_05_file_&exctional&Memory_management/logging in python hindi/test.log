@@ -1,0 +1,47 @@
+INFO:root:log thid line of executation
+INFO:root:log this line of executation
+INFO:root:this is print
+WARNING:root:This is warning mssg
+ERROR:root:This is my error
+CRITICAL:root:THis is critical msg
+INFO:root:This is my info logging
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+INFO:root:This is my info logging
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+INFO:root:This is my info logging
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 08c85fbb-536e-48a8-876d-66cb25e0ffa4
+INFO:root:This is info logging
+ERROR:root:This is my error
+CRITICAL:root:This is critical
+INFO:root:This is info logging
+ERROR:root:This is my error
+CRITICAL:root:This is critical
+INFO:root:log this line of executation
+INFO:root:this is print
+WARNING:root:This is warning mssg
+ERROR:root:This is my error
+CRITICAL:root:THis is critical msg
+INFO:root:This is info logging
+ERROR:root:This is my error
+CRITICAL:root:This is critical
+INFO:root:This is info logging
+ERROR:root:This is my error
+CRITICAL:root:This is critical
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: e8bf7ab1-8448-4d70-847b-7f3954aa3a75
+INFO:root:This is info logging
+ERROR:root:This is my error
+CRITICAL:root:This is critical
+INFO:root:log this line of executation
+INFO:root:this is print
+WARNING:root:This is warning mssg
+ERROR:root:This is my error
+CRITICAL:root:THis is critical msg
+INFO:root:This is info logging
+ERROR:root:This is my error
+CRITICAL:root:This is critical
